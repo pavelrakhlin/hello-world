@@ -1,6 +1,4 @@
 # hello-world
 Learning to use Github
 
-My first edit.
-
-My second edit.
+I am learning how to use Github to help with building a website.
